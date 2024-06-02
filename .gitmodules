@@ -1,0 +1,6 @@
+[submodule "AgeManipulationServer"]
+	path = AgeManipulationServer
+	url = https://github.com/Flyashik/AgeManipulationServer.git
+[submodule "AgeManipulationApp"]
+	path = AgeManipulationApp
+	url = https://github.com/Flyashik/AgeManipulationApp.git
